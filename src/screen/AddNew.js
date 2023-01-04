@@ -242,49 +242,5 @@ const styles = StyleSheet.create({
     fontWeight: '500',
   },
 
-  // flexbox: {
-  //   // borderWidth: 0.5,
-  //   borderColor: 'black',
-  //   height: 60,
-  //   backgroundColor: '#e6e6ff',
-  //   alignItems: 'center',
-  //   // justifyContent: 'center',
-  //   paddingHorizontal: 10,
-  //   flexDirection: 'row',
-  // },
-  // select: {
-  //   borderTopWidth: 0.5,
-  //   borderTopColor: 'black',
-  //   height: 60,
-  //   backgroundColor: '#fff',
-  //   alignItems: 'center',
-  //   // justifyContent: 'center',
-  //   paddingHorizontal: 10,
-  //   flexDirection: 'row',
-  // },
-
-  // image1: {
-  //   width: 13,
-  //   height: 13,
-  //   resizeMode: 'contain',
-  //   marginStart: 0,
-  //   // marginRight: 'auto',
-  // },
-  // img: {
-  // width: 22,
-  // height: 22,
-  // resizeMode: 'contain',
-  //   marginHorizontal: 20,
-  // },
-  // text: {
-  //   fontSize: 17,
-  //   marginStart: 10,
-  //   color: 'black',
-  // },
-  // tongleimg: {
-  //   width: 22,
-  //   height: 22,
-  //   resizeMode: 'contain',
-  //   marginLeft: 'auto',
-  // },
+// ssss
 });
